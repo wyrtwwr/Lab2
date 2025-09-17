@@ -1,0 +1,6 @@
+﻿  task1.c
+C:\Users\prudn\source\repos\Lab2\Lab2\task1.c(16,12): warning C4129: "%": нераспознанная escape-последовательность символов
+C:\Users\prudn\source\repos\Lab2\Lab2\task1.c(22,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\prudn\source\repos\Lab2\Lab2\task1.c(22,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+C:\Users\prudn\source\repos\Lab2\Lab2\task1.c(22,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "double"
+  Lab2.vcxproj -> C:\Users\prudn\source\repos\Lab2\x64\Debug\Lab2.exe
