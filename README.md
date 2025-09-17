@@ -21,7 +21,10 @@
 6. **Конец**
 ### Блок-схема
 <img width="122" height="421" alt="Диаграмма без названия drawio" src="https://raw.githubusercontent.com/wyrtwwr/email-assets/refs/heads/main/diagr.drawio.png" />
+
+
 ## 2. Реализация программы
+
 
 #include <locale.h>
 #include <stdio.h>
@@ -38,10 +41,12 @@ int main() {
     printf("цена исходная сумма: %dp\n", D);
     printf("Сдача: %dp\n", D - (A + B + C));
 }
+
 ## 3. Результаты работы программы
 цена перчаток: 300p
 цена портфель: 1000p
 цена галстук: 500p
 цена исходная сумма: 1300p
 Сдача: -500p
+
 <img  src="https://raw.githubusercontent.com/wyrtwwr/email-assets/refs/heads/main/photo_2025-09-18_00-56-22.jpg" width="981" height="266">
