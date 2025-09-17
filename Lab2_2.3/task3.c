@@ -5,10 +5,10 @@
 int main() {
     setlocale(LC_ALL, "RUS");
 
-    printf("Дано:\n");
+    printf("Р”Р°РЅРѕ:\n");
     printf("\t%10d\n", 2);
     printf("\t%10d\n", 1323);
-    printf("Ответ: ____________\n");
+    printf("РћС‚РІРµС‚: ____________\n");
     printf("\t%+10.7f\n", 2.0 / 1323); 
 
 }
